@@ -1,2 +1,2 @@
 # Graph-Creator
-Mobile App that detects accelerometer Motion and constructs a graph
+Mobile App that detects accelerometer motion and constructs a graph
